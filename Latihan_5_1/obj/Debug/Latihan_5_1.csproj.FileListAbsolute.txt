@@ -1,0 +1,45 @@
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\mscorlib.dll
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\normidna.nlp
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\normnfc.nlp
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\normnfd.nlp
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\normnfkc.nlp
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\bin\Debug\normnfkd.nlp
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Selasa_141111359_Andy\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Visual Studio Program\Framework Lanjutan\Selasa_141111359_Andy-master\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.pdb
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\mscorlib.dll
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\normidna.nlp
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\normnfc.nlp
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\normnfd.nlp
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\normnfkc.nlp
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\bin\Debug\normnfkd.nlp
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.Form2.resources
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\Visual Studio Program\Tugas Framework Lanjutan\Senin_121111168_Aristo\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
